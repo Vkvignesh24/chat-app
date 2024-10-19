@@ -1,2 +1,16 @@
-# chat-app
-This Flutter Chat Application provides a seamless and user-friendly chat experience. Built using Flutter and Firebase Firestore, it allows users to chat with each other in real-time. The app incorporates essential chat functionalities while ensuring user privacy by only displaying contacts that the user has added.
+# pro_chat
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

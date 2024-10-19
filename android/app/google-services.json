@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622461008667",
+    "project_id": "prochat-fb8ee",
+    "storage_bucket": "prochat-fb8ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622461008667:android:5c99e3e7e638165fb731be",
+        "android_client_info": {
+          "package_name": "com.example.pro_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGA13jEpxln0orGvVn2abwvtmja5v3Ddk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
